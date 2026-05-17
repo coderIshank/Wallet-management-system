@@ -87,7 +87,7 @@ wallet_project/
 # Quick Start
 
 ```bash
-git clone <your_repository_url>
+git clone https://github.com/coderIshank/Wallet-management-system
 
 cd wallet-system
 
@@ -113,16 +113,8 @@ python manage.py runserver
 ## 1. Clone Repository
 
 ```bash
-git clone <your_repository_url>
+git clone https://github.com/coderIshank/Wallet-management-system
 ```
-
-Example:
-
-```bash
-git clone https://github.com/yourusername/wallet-system.git
-```
-
----
 
 ## 2. Go To Project Directory
 
@@ -477,19 +469,6 @@ Import the collection into Postman to test APIs easily.
 - Pagination
 - Date Filtering
 - Unit Testing
-
----
-
-# Future Improvements
-
-- Multiple wallets per user
-- Redis caching
-- Celery background tasks
-- Docker support
-- PostgreSQL database
-- Swagger API documentation
-- Rate limiting
-- Async processing
 
 ---
 
